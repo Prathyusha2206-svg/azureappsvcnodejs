@@ -15,7 +15,7 @@ Open `http://localhost:8080`.
 
 Use these settings when deploying to Azure App Service on Linux:
 
-- Runtime stack: Node.js 18 LTS or newer
+- Runtime stack: Node.js 24 LTS
 - Startup command: `npm start`
 - Health endpoint: `/health`
 
